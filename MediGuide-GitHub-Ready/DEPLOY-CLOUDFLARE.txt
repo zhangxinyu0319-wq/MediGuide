@@ -1,1 +1,0 @@
-Deploy the contents of this folder with index.html at the root. Clerk publishable key is in config.js. In your Clerk Dashboard, turn OFF optional organizations / organization onboarding for a consumer app. This cannot be reliably disabled solely via the Clerk JS widget. Policy details and premiums are not yet independently verified.
