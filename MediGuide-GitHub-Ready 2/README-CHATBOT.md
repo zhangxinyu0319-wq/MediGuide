@@ -1,0 +1,1 @@
+MediGuide chatbot now uses Google Gemini (default `gemini-2.5-flash-lite`) instead of OpenAI. See `CHATBOT-SETUP.md` for Gemini API key, free-tier caveats, Cloudflare Pages Function deployment and security instructions.
